@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # acaburger
-ACA burger builder
->>>>>>> 2f6aae083d9d7b1615ae1d74b142d7e17d63f8fc
+ACA Burger Builder
+
