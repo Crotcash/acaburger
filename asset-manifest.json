@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/acaburger/static/css/main.fdd63307.css",
+    "main.js": "/acaburger/static/js/main.5b2f83de.js",
+    "index.html": "/acaburger/index.html",
+    "main.fdd63307.css.map": "/acaburger/static/css/main.fdd63307.css.map",
+    "main.5b2f83de.js.map": "/acaburger/static/js/main.5b2f83de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd63307.css",
+    "static/js/main.5b2f83de.js"
+  ]
+}
